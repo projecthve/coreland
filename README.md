@@ -1,5 +1,5 @@
 CoreLand
 ========
 Cliente: CoreLand<br  />
-Data da Entrega: --/--/----
+Data da Entrega: --/--/----<br  />
 Autor: EnderBr_
